@@ -17,11 +17,8 @@ Each day, pick a new challenge from the list and start designing. The challenges
 2. Day 2 - Restaurant Menu (Food Industry)
 3. Day 3 - E-commerce Product Listing (Retail Industry)
 4. Day 4 - News Article (Journalism Industry)
-
 Day 5 - Event Landing Page (Event Management Industry)
-
-Day 6 - Portfolio (Creative Industry): Design a portfolio page to showcase your work, including a gallery of projects and a contact form.
-
+Day 6 - Portfolio (Creative Industry)
 Day 7 - Weather Dashboard (Meteorology Industry): Create a dashboard to display weather data, including current conditions, a forecast, and weather maps.
 
 Day 8 - Movie Listing (Entertainment Industry): Design a page to display a list of movies, including a poster, title, rating, and summary for each film.
