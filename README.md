@@ -1,11 +1,11 @@
 # 30-Days-of-CSS-Designs
 
 
-Welcome to the 30 Days of CSS Designs! This is a 30-day challenge where we create a different webpage design each day related to a different industry. The complexity of the designs will increase as the days progress.
+Welcome to the 30 Days of CSS Designs! This is a 30-day challenge where I create a different webpage design each day related to a different industry. The complexity of the designs will increase as the days progress.
 
 ## Project Overview
 
-The goal of this project is to improve your CSS skills by building complex and beautiful webpage designs. Each day, you'll focus on a different aspect of CSS and web design, and by the end of the 30 days, you'll have a wide range of designs in your portfolio.
+The goal of this project is to improve my CSS skills by building complex and beautiful webpage designs. Each day, I'll focus on a different aspect of CSS and web design, and by the end of the 30 days, I'll have a wide range of designs in my portfolio.
 
 ## How It Works
 
@@ -50,10 +50,6 @@ Each day, pick a new challenge from the list and start designing. The challenges
 ## Getting Started
 
 To get started, simply fork this repository and start working on the challenges. You can create a new folder for each day's challenge and push your code to your forked repository.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for additional challenges or improvements, please open an issue or submit a pull request.
 
 ## License
 
