@@ -24,10 +24,8 @@ Each day, pick a new challenge from the list and start designing. The challenges
 9. Day 9 - Travel Itinerary (Travel Industry)
     
 10. Day 10 - Fitness Tracker (Health Industry)
-
-Day 11 - Music Player (Music Industry): Create a music player interface, including controls for play/pause, skip, and volume, as well as a playlist.
-
-Day 12 - Real Estate Listing (Real Estate Industry): Design a page to display a real estate listing, including a photo gallery, property details, and a contact form.
+11. Day 11 - Music Player (Music Industry)
+12. Day 12 - Real Estate Listing (Real Estate Industry)
 
 Day 13 - Online Learning Course (Education Industry): Create a layout for an online course, including a course outline, video player, and discussion forum.
 
