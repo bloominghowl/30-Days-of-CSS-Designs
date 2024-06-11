@@ -22,20 +22,15 @@ Each day, pick a new challenge from the list and start designing. The challenges
 7. Day 7 - Weather Dashboard (Meteorology Industry)
 8. Day 8 - Movie Listing (Entertainment Industry)
 9. Day 9 - Travel Itinerary (Travel Industry)
-    
+
 10. Day 10 - Fitness Tracker (Health Industry)
 11. Day 11 - Music Player (Music Industry)
 12. Day 12 - Real Estate Listing (Real Estate Industry)
-
-Day 13 - Online Learning Course (Education Industry): Create a layout for an online course, including a course outline, video player, and discussion forum.
-
-Day 14 - Recipe Page (Cooking Industry): Design a recipe page with a list of ingredients, step-by-step instructions, and user reviews.
-
-Day 15 - Social Media Profile (Social Media Industry): Create a social media profile page, including a profile picture, bio, and timeline of posts.
-
-Day 16 - Game Leaderboard (Gaming Industry): Design a leaderboard for a game, including a list of players and their scores.
-
-Day 17 - Stock Market Dashboard (Finance Industry): Create a dashboard to display stock market data, including charts, news updates, and a watchlist.
+13. Day 13 - Online Learning Course (Education Industry)
+14. Day 14 - Recipe Page (Cooking Industry)
+15. Day 15 - Social Media Profile (Social Media Industry)
+16. Day 16 - Game Leaderboard (Gaming Industry)
+17. Day 17 - Stock Market Dashboard (Finance Industry)
 
 Day 18 - Hospital Management System (Healthcare Industry): Design a hospital management system interface, including patient records, appointment scheduling, and billing.
 
