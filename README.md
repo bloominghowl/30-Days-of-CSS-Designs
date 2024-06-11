@@ -21,10 +21,9 @@ Each day, pick a new challenge from the list and start designing. The challenges
 6. Day 6 - Portfolio (Creative Industry)
 7. Day 7 - Weather Dashboard (Meteorology Industry)
 8. Day 8 - Movie Listing (Entertainment Industry)
-
-Day 9 - Travel Itinerary (Travel Industry): Create an itinerary for a trip, including a schedule of events, a map, and travel tips.
-
-Day 10 - Fitness Tracker (Health Industry): Design a fitness tracker dashboard, including data visualizations for steps, calories burned, and heart rate.
+9. Day 9 - Travel Itinerary (Travel Industry)
+    
+10. Day 10 - Fitness Tracker (Health Industry)
 
 Day 11 - Music Player (Music Industry): Create a music player interface, including controls for play/pause, skip, and volume, as well as a playlist.
 
