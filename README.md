@@ -18,7 +18,7 @@ Each day, pick a new challenge from the list and start designing. The challenges
 3. Day 3 - E-commerce Product Listing (Retail Industry)
 4. Day 4 - News Article (Journalism Industry)
 
-Day 5 - Event Landing Page (Event Management Industry): Create a landing page for an event, including a countdown timer, event details, and a registration form.
+Day 5 - Event Landing Page (Event Management Industry)
 
 Day 6 - Portfolio (Creative Industry): Design a portfolio page to showcase your work, including a gallery of projects and a contact form.
 
