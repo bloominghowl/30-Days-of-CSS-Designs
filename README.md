@@ -19,9 +19,8 @@ Each day, pick a new challenge from the list and start designing. The challenges
 4. Day 4 - News Article (Journalism Industry)
 5. Day 5 - Event Landing Page (Event Management Industry)
 6. Day 6 - Portfolio (Creative Industry)
-Day 7 - Weather Dashboard (Meteorology Industry): Create a dashboard to display weather data, including current conditions, a forecast, and weather maps.
-
-Day 8 - Movie Listing (Entertainment Industry): Design a page to display a list of movies, including a poster, title, rating, and summary for each film.
+7. Day 7 - Weather Dashboard (Meteorology Industry)
+8. Day 8 - Movie Listing (Entertainment Industry)
 
 Day 9 - Travel Itinerary (Travel Industry): Create an itinerary for a trip, including a schedule of events, a map, and travel tips.
 
