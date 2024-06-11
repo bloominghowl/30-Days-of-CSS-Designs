@@ -23,6 +23,7 @@ Each day, pick a new challenge from the list and start designing. The challenges
 8. Day 8 - Movie Listing (Entertainment Industry)
 9. Day 9 - Travel Itinerary (Travel Industry)
 
+
 10. Day 10 - Fitness Tracker (Health Industry)
 11. Day 11 - Music Player (Music Industry)
 12. Day 12 - Real Estate Listing (Real Estate Industry)
@@ -31,12 +32,10 @@ Each day, pick a new challenge from the list and start designing. The challenges
 15. Day 15 - Social Media Profile (Social Media Industry)
 16. Day 16 - Game Leaderboard (Gaming Industry)
 17. Day 17 - Stock Market Dashboard (Finance Industry)
+18. Day 18 - Hospital Management System (Healthcare Industry)
+19. Day 19 - Library Management System (Library Industry)
+20. Day 20 - Project Management Dashboard (Management Industry)
 
-Day 18 - Hospital Management System (Healthcare Industry): Design a hospital management system interface, including patient records, appointment scheduling, and billing.
-
-Day 19 - Library Management System (Library Industry): Create a library management system interface, including a catalog search, book checkout, and member management.
-
-Day 20 - Project Management Dashboard (Management Industry): Design a project management dashboard, including a task list, project timeline, and team member assignments.
 
 Day 21 - E-commerce Shopping Cart (Retail Industry): Create a shopping cart interface for an e-commerce site, including product summaries, a subtotal, and a checkout button.
 
