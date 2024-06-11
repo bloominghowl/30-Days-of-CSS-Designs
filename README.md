@@ -36,25 +36,16 @@ Each day, pick a new challenge from the list and start designing. The challenges
 19. Day 19 - Library Management System (Library Industry)
 20. Day 20 - Project Management Dashboard (Management Industry)
 
-
-Day 21 - E-commerce Shopping Cart (Retail Industry): Create a shopping cart interface for an e-commerce site, including product summaries, a subtotal, and a checkout button.
-
-Day 22 - Digital Agency Website (Marketing Industry): Design a website for a digital agency, including a services list, portfolio, and contact form.
-
-Day 23 - Job Board (Recruitment Industry): Create a job board page, including a list of jobs, filters for job search, and job details.
-
-Day 24 - Email Client (Communication Industry): Design an email client interface, including an inbox, email preview, and compose email form.
-
-Day 25 - Photo Editing App (Photography Industry): Create a photo editing app interface, including a photo preview, editing tools, and save/export options.
-
-Day 26 - Flight Booking Interface (Aviation Industry): Design a flight booking interface, including a flight search, flight details, and booking form.
-
-Day 27 - TV Show Tracker (Entertainment Industry): Create a TV show tracker interface, including a list of shows, episode details, and watchlist.
-
-Day 28 - Sports Team Website (Sports Industry): Design a website for a sports team, including a team roster, game schedule, and news updates.
-
-Day 29 - Virtual Reality Interface (Technology Industry): Create a virtual reality interface, including a 3D environment, user avatar, and interaction controls.
-5. Day 30 - Data Visualization Dashboard (Data Analysis Industry)
+21. Day 21 - E-commerce Shopping Cart (Retail Industry)
+22. Day 22 - Digital Agency Website (Marketing Industry)
+23. Day 23 - Job Board (Recruitment Industry)
+24. Day 24 - Email Client (Communication Industry)
+25. Day 25 - Photo Editing App (Photography Industry)
+26. Day 26 - Flight Booking Interface (Aviation Industry)
+27. Day 27 - TV Show Tracker (Entertainment Industry)
+28. Day 28 - Sports Team Website (Sports Industry)
+29. Day 29 - Virtual Reality Interface (Technology Industry)
+30. Day 30 - Data Visualization Dashboard (Data Analysis Industry)
 
 ## Getting Started
 
